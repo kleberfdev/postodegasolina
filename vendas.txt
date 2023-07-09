@@ -1,0 +1,10 @@
+Quantidade: 50 litros
+Valor do litro: R$4.5
+Desconto: 10%
+Valor total: R$202.5
+
+Quantidade: 30 litros
+Valor do litro: R$5.0
+Desconto: 5%
+Valor total: R$142.5
+
